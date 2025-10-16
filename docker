@@ -4,4 +4,4 @@ Consistency
 Docker eliminates the "it works on my machine" problem by ensuring that an application and its dependencies are packaged together. This means an application will behave identically across development, testing, and production environments.
 Portability
 Containerized applications are highly portable and can run anywhere, including on a developer's laptop, an on-premises data center, or any major cloud platform like AWS or Microsoft Azure.
-
+here no changes
