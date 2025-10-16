@@ -1,0 +1,6 @@
+Jenkins, Ansible, and Linux are frequently used together in DevOps environments to automate the software delivery pipeline, particularly for continuous integration and continuous delivery (CI/CD) on Linux-based systems.
+Jenkins serves as the automation server, orchestrating the entire CI/CD process. It can be configured to:
+Trigger builds and tests: Automatically initiate these processes upon code changes.
+Manage pipelines: Define and execute multi-stage pipelines for building, testing, and deploying applications.
+Integrate with various tools: Utilize a wide range of plugins to extend its functionality, including integration with Ansible.
+Ansible is an automation engine primarily used for configuration management, application deployment, and IT orchestration. In a Jenkins-Linux setup, Ansible is used to: 
