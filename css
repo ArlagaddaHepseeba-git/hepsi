@@ -1,0 +1,19 @@
+/* Styling all h1 elements */
+h1 {
+  color: blue; /* Sets the text color to blue */
+  font-size: 24px; /* Sets the font size to 24 pixels */
+  text-align: center; /* Centers the text */
+}
+
+/* Styling elements with the class "highlight" */
+.highlight {
+  background-color: yellow; /* Sets the background color to yellow */
+  padding: 10px; /* Adds 10 pixels of padding around the content */
+}
+
+/* Styling the element with the ID "main-content" */
+#main-content {
+  width: 80%; /* Sets the width to 80% of its parent container */
+  margin: 0 auto; /* Centers the element horizontally */
+  border: 1px solid black; /* Adds a 1-pixel solid black border */
+}
